@@ -11,4 +11,5 @@ app.listen(port, () => {
 });
 
 app.use('/', mainRouter);
-app.use('/about', mainRouter);
+/* app.use('/about', mainRouter); */
+app.use('/detalleMenu', mainRouter);
