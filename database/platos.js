@@ -4,28 +4,28 @@ const platos = [
         nombre: "Carpaccio fresco",
         descripcion: "Entrada Carpaccio de salmón con cítricos",
         precio: 65.50,
-        imagen: "/imagenes/Carpaccio-de-salmon.jpg"
+        imagen: "/images/Carpaccio-de-salmon.jpg"
     },
     {
         id:"2",
         nombre: "Risotto de berenjena",
         descripcion: "Risotto de berenjena y queso de cabra",
         precio: 47.00,
-        imagen: "/imagenes/Risotto-berenjena-queso-cabra.jpg"
+        imagen: "/images/Risotto-berenjena-queso-cabra.jpg"
     },
     {
         id:"3",
         nombre: "Mousse de arroz",
         descripcion: "Mousse de arroz con leche y aroma de azahar",
         precio: 27.50,
-        imagen: "/imagenes/Mousse-de-arroz-con-leche.jpg"
+        imagen: "/images/Mousse-de-arroz-con-leche.jpg"
     },
     {
         id:"4",
         nombre: "Espárragos blancos",
         descripcion: " Espárragos blancos con vinagreta de verduras y jamón ibérico",
         precio: 37.50,
-        imagen: "/imagenes/esparragos.png"
+        imagen: "/images/esparragos.png"
     },
 ]
 

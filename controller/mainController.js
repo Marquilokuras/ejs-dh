@@ -7,8 +7,8 @@ const mainController = {
     },
 
     renderDetalleMenu: (req, res) => {
-
-        res.render('detalleMenu', { title: 'Detalle del Menu', data: arrayPlatos })
+        const platoSearch = arrayPlatos.find((plato) => plato.id === req.params.id)
+        res.render('detalleMenu',{plato: platoSearch});
     },
 
     /* renderAbout: (req,res) =>{
