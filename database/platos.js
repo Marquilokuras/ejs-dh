@@ -2,7 +2,7 @@ const platos = [
     {
         id:"1",
         nombre: "Carpaccio fresco",
-        descripcion: "Entrada Carpaccio de salmón con cítricos",
+        
         precio: 65.50,
         imagen: "Carpaccio-de-salmon.jpg"
     },
